@@ -1,28 +1,27 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# Definición de Lenguaje
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana.
 
-Plantilla generica de todo repositorio.
+![](https://concepto.de/wp-content/uploads/2018/09/lenguaje-de-programaci%C3%B3n-e1537466894547.jpg)
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+# Definición de Algoritmo
 
-----
+Los algoritmos nos permiten ejecutar una acción o resolver un problema mediante una serie de instrucciones definidas, ordenadas y finitas. Así, dado un estado inicial y una entrada, y siguiendo los sucesivos pasos indicados, se llega al estado final y se obtiene una solución.
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+![](https://i.ytimg.com/vi/nrRxlHqb-ko/maxresdefault.jpg)
 
-----
+# Tipos de Lenguajes Algorítmicos 
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+## GRÁFICOS
+Son la representación gráfica de las operaciones que realiza un algoritmo (diagrama de flujo). El diagrama de flujo se caracteriza por la forma gráfica detallada de los pasos a seguir para encontrar la solución del problema propuesto.
+La representación gráfica se da por medio de varios símbolos(cada uno con su propósito establecido ), que unidos entre sí, indican el orden en el que se debe dar el proceso.
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
+## NO GRÁFICOS
+Representan en forma descriptiva  las operaciones que debe  realizar un algoritmo(pseudocódigo). El pseudocódigo  es un lenguaje intermedio entre nuestro lenguaje y el lenguaje de programación, su característica principal es el de representar la solución de forma más detallada  y lo más parecida al lenguaje, para que posteriormente se pueda codificar. Otras  características son:
 
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
+- Se puede ejecutar en un ordenador.
+- Facilita el paso del programa al lenguaje de programación.
+- Es independiente del lenguaje del programación que se vaya a utilizar.
+- Método que facilita la programación y solución al algoritmo del programa.
 
-
+![](https://image.slidesharecdn.com/tiposdelenguajesalgortmicos-170217000240/95/algoritmos-18-638.jpg?cb=1487290250)
