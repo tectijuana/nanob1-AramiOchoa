@@ -1,3 +1,5 @@
+# ACTIVIDAD 1
+
 # Definición de Lenguaje
 
 Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana.
